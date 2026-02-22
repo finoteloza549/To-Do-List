@@ -24,6 +24,9 @@ Open index.html in your browser.
 - Clear completed — Remove all completed tasks at once
 - Task counter — Shows remaining active tasks
 - localStorage — Tasks persist after page refresh
-
+## live link
+https://to-do-list-app-dun-nine.vercel.app/
 ## Author
 finoteloza
+
+frontend developer
